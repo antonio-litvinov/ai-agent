@@ -1,0 +1,106 @@
+[
+  {
+    "entity_id": "sensor.unknown",
+    "friendly_name": "Климат гостиная"
+  },
+  {
+    "entity_id": "sensor.unknown_humidity_sensor",
+    "friendly_name": "Климат гостиная Humidity Sensor"
+  },
+  {
+    "entity_id": "sensor.unknown_2",
+    "friendly_name": "Климат спальня"
+  },
+  {
+    "entity_id": "sensor.unknown_humidity_sensor_2",
+    "friendly_name": "Климат спальня Humidity Sensor"
+  },
+  {
+    "entity_id": "alarm_control_panel.aqara_security_system",
+    "friendly_name": "Шлюз Aqara Security System"
+  },
+  {
+    "entity_id": "switch.aqara_pairing_mode",
+    "friendly_name": "Шлюз Aqara Pairing Mode"
+  },
+  {
+    "entity_id": "button.aqara_identify",
+    "friendly_name": "Шлюз Aqara Identify"
+  },
+  {
+    "entity_id": "light.aqara_lightbulb",
+    "friendly_name": "Шлюз Aqara Lightbulb"
+  },
+  {
+    "entity_id": "switch.rozetka_shliuza",
+    "friendly_name": "Розетка шлюза"
+  },
+  {
+    "entity_id": "light.kladovaia",
+    "friendly_name": "Кладовая"
+  },
+  {
+    "entity_id": "light.svet_v_koridore",
+    "friendly_name": "Свет в коридоре"
+  },
+  {
+    "entity_id": "light.svet_v_tualete",
+    "friendly_name": "Свет в туалете"
+  },
+  {
+    "entity_id": "switch.podsvetka_v_vannoi",
+    "friendly_name": "Подсветка в ванной"
+  },
+  {
+    "entity_id": "switch.svet_na_kukhne",
+    "friendly_name": "Свет на кухне"
+  },
+  {
+    "entity_id": "switch.svet_v_vannoi",
+    "friendly_name": "Свет в ванной"
+  },
+  {
+    "entity_id": "switch.pravyi_svet_v_detskoi",
+    "friendly_name": "Правый свет в детской"
+  },
+  {
+    "entity_id": "switch.levyi_svet_v_detskoi",
+    "friendly_name": "Левый свет в детской"
+  },
+  {
+    "entity_id": "switch.svet_v_spalne",
+    "friendly_name": "Свет в спальне"
+  },
+  {
+    "entity_id": "switch.pravyi_shkaf",
+    "friendly_name": "Правый шкаф"
+  },
+  {
+    "entity_id": "switch.zona_divana",
+    "friendly_name": "Зона дивана"
+  },
+  {
+    "entity_id": "switch.podsvetka_v_gostinoi",
+    "friendly_name": "Подсветка в гостиной"
+  },
+  {
+    "entity_id": "switch.ostrov",
+    "friendly_name": "Остров"
+  },
+  {
+    "entity_id": "switch.bra_v_gostinoi",
+    "friendly_name": "Бра в гостиной"
+  },
+  {
+    "entity_id": "switch.obedennyi_stol",
+    "friendly_name": "Обеденный стол"
+  },
+  {
+    "entity_id": "switch.liustra",
+    "friendly_name": "Люстра"
+  },
+  {
+    "entity_id": "switch.levyi_shkaf",
+    "friendly_name": "Левый шкаф"
+  }
+]
