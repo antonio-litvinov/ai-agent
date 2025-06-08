@@ -1,6 +1,6 @@
 
 -- 1. Создание пользователя
-CREATE USER agent WITH PASSWORD 'BywPCL27';
+CREATE USER agent WITH PASSWORD 'password';
 
 -- 2. Создание базы данных
 CREATE DATABASE medialibrary
